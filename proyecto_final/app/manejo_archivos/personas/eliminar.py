@@ -2,7 +2,7 @@ import os
 from app.manejo_archivos.personas.leer import leer
 from app.formatos.formato_persona import formato_dato_persona_archivo
 
-ruta = os.path.join("app/archivos/personas.txt")
+ruta = os.path.join("proyecto_final/app/archivos/personas.txt")
 
 def eliminar(id: int, /):
     

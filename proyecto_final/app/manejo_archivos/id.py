@@ -1,7 +1,7 @@
 import os
 import json
 
-ruta = os.path.join("app/archivos/id.txt")
+ruta = os.path.join("proyecto_final/app/archivos/id.txt")
 
 def leer_id() -> int:
     with open(ruta,"r",encoding="utf-8") as archivo:
