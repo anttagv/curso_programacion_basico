@@ -1,0 +1,5 @@
+1|José|Díaz|33
+2|Ana|Martínez|20
+6|María|González|19
+9|Juan|Díaz|12
+10|Elias|Mendez|2
